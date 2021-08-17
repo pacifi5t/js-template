@@ -1,0 +1,19 @@
+{
+  "name": "js-template",
+  "version": "1.0.0",
+  "description": "Template for projects built with JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "prod": "node index.js",
+    "dev": "nodemon index.js",
+    "clean": "rm -rf node_modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "nodemon": "^2.0.12"
+  }
+}
