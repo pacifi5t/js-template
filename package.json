@@ -1,7 +1,7 @@
 {
-  "name": "js-template",
+  "name": "",
   "version": "1.0.0",
-  "description": "Template for projects built with JavaScript",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
